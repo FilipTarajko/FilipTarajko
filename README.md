@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>
-      web frameworks
+      frameworks
     </td>
     <td>
 
@@ -27,15 +27,16 @@
   </tr>
   <tr>
     <td>
-      frontend UI
+      html/styling
     </td>
     <td>
 
 [<img align="left" width="40" height="40" alt="HTML" src="https://api.iconify.design/devicon:html5.svg" style="padding: 0 20px 16px 0">](https://en.wikipedia.org/wiki/HTML "HTML")
 [<img align="left" width="40" height="40" alt="CSS" src="https://api.iconify.design/devicon:css3.svg" style="padding: 0 20px 16px 0">](https://en.wikipedia.org/wiki/CSS "CSS")
+[<img align="left" width="40" height="40" alt="Sass" src="https://api.iconify.design/devicon:sass.svg" style="padding: 0 20px 16px 0">](https://sass-lang.com "Sass")
 [<img align="left" width="40" height="40" alt="TailwindCSS" src="https://api.iconify.design/devicon:tailwindcss.svg" style="padding: 0 20px 16px 0">](https://tailwindcss.com "TailwindCSS")
 [<img align="left" width="40" height="40" alt="Vuetify" src="https://api.iconify.design/devicon:vuetify.svg" style="padding: 0 20px 16px 0">](https://vuetifyjs.com "Vuetify")
-[<img align="left" width="40" height="40" alt="Sass" src="https://api.iconify.design/devicon:sass.svg" style="padding: 0 20px 16px 0">](https://sass-lang.com "Sass")
+[<img align="left" width="40" height="40" alt="shadcn-svelte" src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%23eb4f27" style="padding: 0 20px 16px 0">](https://www.shadcn-svelte.com "shadcn-svelte")
 [<img align="left" width="40" height="40" alt="shadcn-vue" src="https://api.iconify.design/simple-icons:shadcnui.svg?color=%2341b883" style="padding: 0 20px 16px 0">](https://www.shadcn-vue.com "shadcn-vue")
     </td>
   </tr>

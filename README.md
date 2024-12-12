@@ -22,6 +22,7 @@
     <td>
 
 [<img align="left" width="40" height="40" alt="Vue.js" src="https://api.iconify.design/devicon:vuejs.svg" style="padding: 0 20px 16px 0">](https://vuejs.org "Vue.js")
+[<img align="left" width="40" height="40" alt="React" src="https://api.iconify.design/devicon:react.svg" style="padding: 0 20px 16px 0">](https://react.dev "React")
 [<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
 [<img align="left" width="40" height="40" alt="Symfony" src="https://api.iconify.design/devicon:symfony.svg" style="padding: 0 20px 16px 0">](https://symfony.com "Symfony")
 [<img align="left" width="40" height="40" alt="Phoenix" src="https://api.iconify.design/devicon:phoenix.svg" style="padding: 0 20px 16px 0">](https://www.phoenixframework.org "Phoenix")

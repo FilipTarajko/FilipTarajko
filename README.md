@@ -24,7 +24,7 @@
 [<img align="left" width="40" height="40" alt="Vue.js" src="https://api.iconify.design/devicon:vuejs.svg" style="padding: 0 20px 16px 0">](https://vuejs.org "Vue.js")
 [<img align="left" width="40" height="40" alt="React" src="https://api.iconify.design/devicon:react.svg" style="padding: 0 20px 16px 0">](https://react.dev "React")
 [<img align="left" width="40" height="40" alt="Svelte" src="https://api.iconify.design/devicon:svelte.svg" style="padding: 0 20px 16px 0">](https://svelte.dev "Svelte")
-[<picture align="left"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/fa-brands:symfony.svg?color=%23e5e8e4" /><img align="left" width="40" height="40" alt="Symfony" src="https://api.iconify.design/fa-brands:symfony.svg?color=%23ffffff" style="padding: 0 20px 16px 0"/></picture>](https://symfony.com "Symfony")
+[<picture align="left"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/fa-brands:symfony.svg?color=%23000000" /><img align="left" width="40" height="40" alt="Symfony" src="https://api.iconify.design/fa-brands:symfony.svg?color=%23e5e8e4" style="padding: 0 20px 16px 0"/></picture>](https://symfony.com "Symfony")
 [<img align="left" width="40" height="40" alt="Phoenix" src="https://api.iconify.design/devicon:phoenix.svg" style="padding: 0 20px 16px 0">](https://www.phoenixframework.org "Phoenix")
     </td>
   </tr>
